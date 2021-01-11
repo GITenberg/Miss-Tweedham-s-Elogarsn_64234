@@ -1,0 +1,23 @@
+_repo: Miss-Tweedham-s-Elogarsn_64234
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Williams, Robert Moore
+    birthdate: 1907
+    deathdate: 1977
+    gutenberg_agent_id: '33777'
+    url: http://www.gutenberg.org/2009/agents/33777
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Moore_Williams
+description: ''
+gutenberg_issued: '2021-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64234'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Miss Tweedham's Elogarsn
+url: http://www.gutenberg.org/ebooks/64234
